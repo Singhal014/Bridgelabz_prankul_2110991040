@@ -1,16 +1,24 @@
 
-Date = 13-12-2024
+Date = 16-12-2024
 
-Running first program
-Printing Statement Write() vs WriteLine()
-Basic Structure of C#
-namespace
-Class & Main
+Control Statement :
+
+if-else
+switch
+for loop
+while loop
+do while loop
+break
+continue
+Goto
 Comments
-MultiLine Comment
-Variables
-DataTypes
-Taking inputs
-Size of datatypes
-Typecasting double to float
-Char and String
+
+Functions :
+
+Function
+Call By Value
+Call By Reference
+Out Parameter
+
+Review
+
