@@ -1,8 +1,7 @@
 Date : 10/01/2025
 
-1. Doing Address Book
- UC10
- UC12
-2. Annotation
+1. Design Principles in C#
+2. Basic Ado.net
+
 
 
