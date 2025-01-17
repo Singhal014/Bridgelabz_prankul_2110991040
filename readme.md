@@ -1,7 +1,8 @@
-Date : 15/01/2025
+Date : 16/01/2025
 
-1. Acquired knowledge of SQL Server Express, including its features and usage.
-2. Successfully downloaded and installed SQL Server Express on the local machine.
-3. Configured and set up SQL Server Management Studio (SSMS) for effective database management.
-4. Conducted initial exploration of SSMS functionalities, focusing on database operations and query execution.
+Implemented CRUD functionality for an Address Book application.
+1. Create: Developed functionality to add new contacts with details such as name, phone number, and address.
+2. Read: Added features to display the list of contacts with search and filter capabilities.
+3. Update: Enabled editing of existing contact details, ensuring data validation and consistency.
+4. Delete: Implemented the ability to remove contacts, including confirmation prompts to prevent accidental deletions.
 
