@@ -1,22 +1,20 @@
+Date : 22/01/2025
 
-Date : 21/01/2025
+Implement Sql Query
 
-1. Select 
-2. Select Distinct 
-3. Where 
-4. Order By 
-5. And 
-6. or
-7. Not
-8. Insert into
-9. Null values
-10. Update
-11. Delete
-12. Select Top
-13. Aggregate Functions
-14. Min and Max
-15. Count
-16. Sum
-17. Avg
-18. Like
+1. In
+2. Between
+3. Aliases
+4. Having
+5. Joins
+6. inner join
+7. left join
+8. right join
+9. full outer join
+10. left exclusive join
+11. right exclusive join
+12. Unoin joins
+13. cross join
+
+
 
