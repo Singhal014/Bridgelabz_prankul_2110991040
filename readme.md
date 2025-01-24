@@ -1,20 +1,22 @@
 
-Date : 20/01/2025
+Date : 21/01/2025
 
-DDL (Data Definition Language) :
-Create and modify tables with CREATE and ALTER.
-Delete tables with DROP.
+1. Select 
+2. Select Distinct 
+3. Where 
+4. Order By 
+5. And 
+6. or
+7. Not
+8. Insert into
+9. Null values
+10. Update
+11. Delete
+12. Select Top
+13. Aggregate Functions
+14. Min and Max
+15. Count
+16. Sum
+17. Avg
+18. Like
 
-DQL (Data Query Language) :
-Retrieve data with SELECT.
-Filter data with WHERE.
-Sort data with ORDER BY.
-
-DML (Data Manipulation Language) :
-Insert data with INSERT.
-Update data with UPDATE.
-Delete data with DELETE.
-
-DCL (Data Control Language) :
-Grant permissions with GRANT.
-Revoke permissions with REVOKE.
