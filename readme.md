@@ -1,6 +1,9 @@
 Date : 28/01/2025
 
-Task: Implement 3-Tier Architecture
+Task: Do CRUD Operations
 Progress:
 
-Download asp.net web api framework and run default weather app app
+Create = Implement Create Operation using post method
+Read = Implement Read Operation using Get method
+Update = Implement Update Operation using Put method
+Delete = Implement Delete Operation using Delete method 
