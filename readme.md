@@ -1,11 +1,10 @@
-Date : 23/01/2025
+Date : 24/01/2025
 
 Implement Sql Query
 
-1. Subquery
+1. Stored proc
 2. Functions
-3. Views 
-4. Triggers
-5. Indexing
+3. Clusted indexing
+4. Non Clusted indexing 
 
 
