@@ -1,7 +1,7 @@
-Date : 07/02/2025
+Date : 08/02/2025
 
 Task: Making FundooNotes Api
 Progress:
 
-Implement label with many to many relationship 
+Implement invite collab with other user by noteId and email 
 
