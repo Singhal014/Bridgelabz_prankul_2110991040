@@ -1,7 +1,7 @@
-Date : 06/02/2025
+Date : 07/02/2025
 
 Task: Making FundooNotes Api
 Progress:
 
-Implement forget password and reset password using jwt token
+Implement label with many to many relationship 
 
