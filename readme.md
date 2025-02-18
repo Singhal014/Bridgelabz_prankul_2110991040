@@ -1,7 +1,7 @@
-Date: 15/02/2025
+Date: 17/02/2025
 
 Task: Developing the FundooNotes API
 
 Progress:
 
-Leaned RabbitMQ, including Exchanges, types of exchanges, queue,binding,clustering,Amqp
+Download and install Erlang and RabbitMQ in user Registration 
