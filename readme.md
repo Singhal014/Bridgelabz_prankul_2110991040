@@ -4,4 +4,5 @@ Task: Developing the FundooNotes API
 
 Progress:
 
-Download and install Erlang and RabbitMQ in user Registration 
+Understand RabbitMq and Implement Refresh token and access token
+ 
