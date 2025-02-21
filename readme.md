@@ -1,8 +1,7 @@
-Date: 17/02/2025
+Date: 19/02/2025
 
 Task: Developing the FundooNotes API
 
 Progress:
 
-Understand RabbitMq and Implement Refresh token and access token
- 
+Working on Implementation of refresh token
