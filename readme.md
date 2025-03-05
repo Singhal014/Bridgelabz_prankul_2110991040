@@ -1,9 +1,10 @@
-Date: 27/02/2025
+Date: 28/02/2025
 
 
 What was done today:
- Revised the topics: .NET, SQL, Exception Handling, ASP.NET, Entity Framework.
+ Learn java script, hoisting, execution context,let and const.
 What will be done next:
 
+Callback function ,map,filter and reduce in js and
  Implementing frontend API, use effect, use ref in fundoo notes. 
 Issues faced: None
