@@ -1,8 +1,6 @@
-Date: 01/03/2025
+Date: 03/03/2025
 
 
 What was done today:
 
-Callback function ,map,filter and reduce in js and
- Implementing frontend API, use effect, use ref in fundoo notes. 
-
+implement UI For signup and login using material ui and use api for use backend
