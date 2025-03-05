@@ -1,8 +1,8 @@
-Date: 20/02/2025
+Date: 21/02/2025
 
-Task: Developing the FundooNotes API
 
-Progress:
+What was done today: Implemented refresh in FundooNotes with 60 days expiry.
 
-Implemented Refresh token in FundooNotes with 60 days expiry
+What will be done next: optimize code and revision RabbitMQ and Redis.
 
+Issues faced: None.
