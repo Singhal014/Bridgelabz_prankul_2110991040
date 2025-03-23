@@ -1,6 +1,3 @@
-Date: 03/03/2025
+Date: 05/03/2025
 
-
-What was done today:
-
-implement UI For signup and login using material ui and use api for use backend
+Implement a search bar that allows users to search for specific notes by their title and description across the Notes container, Archive container, and Trash container. This will enhance usability and make note retrieval more efficient.
