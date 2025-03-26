@@ -1,5 +1,5 @@
-Date: 17/03/2025
+Date: 18/03/2025
 
 
-Complete Implementation of CRUD operations in Fundoo notes
+Completed implementation of CRUD operations in Fundoo Notes, including the collaborators feature.
 
