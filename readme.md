@@ -1,3 +1,4 @@
-Date: 05/03/2025
+Date: 07/03/2025
 
-Implement a search bar in nav bar using useContex correct old code
+Implemented color backgrounds for notes.
+
