@@ -1,7 +1,9 @@
-Date: 10/03/2025
+Date: 11/03/2025
 
-Created an interface for login SignUp,dashboard, nav bar, side bar, add Note interface using React Material UI.
-Learn Reactjs tutorial introduction 
-Hello world 
-Folder structure 
-Components
+earn and implemented 
+State 
+setState
+Props and state
+Event handling 
+Methods as props
+Conditional rendering 
