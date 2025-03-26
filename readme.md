@@ -1,4 +1,4 @@
-Date: 07/03/2025
+Date: 08/03/2025
 
-Implemented color backgrounds for notes.
+ Created an interface for login using React Material UI for Fundoo Notes.
 
