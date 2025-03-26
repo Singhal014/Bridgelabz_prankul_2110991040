@@ -1,4 +1,4 @@
-Date: 25/03/2025
+Date: 26/03/2025
 
-Implemented Forget password and Reset password in Bookstore using Jwt Token
-
+Correct Code implementation of Forget Password and reset password using otp.
+it send email that have OTP Then user verify with OTP and it expire after 10 minutes
